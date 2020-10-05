@@ -4,6 +4,11 @@
     </head>
     <body>
         <h1>Hello Word</h1>
-        <p> teks bebas</p>
+        <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim totam molestiae optio deleniti, quod quibusdam quis eligendi accusamus adipisci aliquam expedita natus possimus architecto repellendus! Explicabo, tenetur? Fugiat, iusto beatae.</p>
+
+        <ul>
+            <li>Satu</li>
+            <li>Dua</li>
+        </ul>
     </body>
 </html>
